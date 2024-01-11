@@ -189,6 +189,15 @@ for ( i = 0; i < N; i++ ) {
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/ndarray-array`][@stdlib/ndarray/array]</span><span class="delimiter">: </span><span class="description">multidimensional arrays.</span>
+-   <span class="package-name">[`@stdlib/ndarray-broadcast-array`][@stdlib/ndarray/broadcast-array]</span><span class="delimiter">: </span><span class="description">broadcast an ndarray to a specified shape.</span>
+-   <span class="package-name">[`@stdlib/ndarray-ctor`][@stdlib/ndarray/ctor]</span><span class="delimiter">: </span><span class="description">multidimensional array constructor.</span>
+-   <span class="package-name">[`@stdlib/ndarray-maybe-broadcast-arrays`][@stdlib/ndarray/maybe-broadcast-arrays]</span><span class="delimiter">: </span><span class="description">broadcast ndarrays to a common shape.</span>
+
 </section>
 
 <!-- /.related -->
@@ -232,8 +241,8 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/ndarray-broadcast-arrays.svg
 [npm-url]: https://npmjs.org/package/@stdlib/ndarray-broadcast-arrays
 
-[test-image]: https://github.com/stdlib-js/ndarray-broadcast-arrays/actions/workflows/test.yml/badge.svg?branch=v0.1.0
-[test-url]: https://github.com/stdlib-js/ndarray-broadcast-arrays/actions/workflows/test.yml?query=branch:v0.1.0
+[test-image]: https://github.com/stdlib-js/ndarray-broadcast-arrays/actions/workflows/test.yml/badge.svg?branch=main
+[test-url]: https://github.com/stdlib-js/ndarray-broadcast-arrays/actions/workflows/test.yml?query=branch:main
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/ndarray-broadcast-arrays/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/ndarray-broadcast-arrays?branch=main
@@ -265,6 +274,16 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [@stdlib/ndarray/ctor]: https://github.com/stdlib-js/ndarray-ctor
 
 [@stdlib/ndarray/base/broadcast-shapes]: https://github.com/stdlib-js/ndarray-base-broadcast-shapes
+
+<!-- <related-links> -->
+
+[@stdlib/ndarray/array]: https://github.com/stdlib-js/ndarray-array
+
+[@stdlib/ndarray/broadcast-array]: https://github.com/stdlib-js/ndarray-broadcast-array
+
+[@stdlib/ndarray/maybe-broadcast-arrays]: https://github.com/stdlib-js/ndarray-maybe-broadcast-arrays
+
+<!-- </related-links> -->
 
 </section>
 
