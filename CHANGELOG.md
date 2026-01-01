@@ -4,7 +4,19 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-05)
+## Unreleased (2026-01-01)
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#9462](https://github.com/stdlib-js/stdlib/issues/9462)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +24,7 @@
 
 <details>
 
+-   [`9273054`](https://github.com/stdlib-js/stdlib/commit/9273054d9d5ab37c52da6ae37563b1289d7c8351) - **chore:** fix JavaScript lint errors [(#9473)](https://github.com/stdlib-js/stdlib/pull/9473) _(by Tejasvini Ramaswamy)_
 -   [`bf3b1ce`](https://github.com/stdlib-js/stdlib/commit/bf3b1ce6e981dc77af2a82a5936ac80b3d029e79) - **docs:** fix TSDoc return annotation _(by Philipp Burckhardt)_
 
 </details>
@@ -24,9 +37,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Philipp Burckhardt
+-   Tejasvini Ramaswamy
 
 </section>
 
