@@ -94,7 +94,6 @@
     "broadcast_arrays",
     "numpy.broadcast_arrays"
   ],
-  "__stdlib__": {},
   "funding": {
     "type": "opencollective",
     "url": "https://opencollective.com/stdlib"
